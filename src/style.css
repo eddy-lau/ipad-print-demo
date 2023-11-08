@@ -12,3 +12,7 @@ body {
   font-size: xx-large;
   margin-top: 1em;
 }
+
+.coupon {
+  width: 595px;
+}
